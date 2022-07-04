@@ -11,7 +11,9 @@
 ## Use Command for make Middlewire
 - php artisan make:middleware nameMiddlewire
 
-## Open Your File 
+## Open Your File in Direktory App\Http\Middleware\Your name middlewire
+## Add New Column for Your Database Table Users And Migrate Again Your Database
+## Make The Routes in file web.php
 
 ## About Laravel
 
